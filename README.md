@@ -29,7 +29,7 @@ Highlight gaps in the inventory and optimize stock levels.
 
 
 # Tools & Library Used
-<img src="" width="200"/> &nbsp;
+<img src="https://github.com/ErPrashantRathod/Maven_Movies_Rental_DA/blob/main/Code_Output/png-clipart-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-thumbnail.png" width="200"/> &nbsp;
 
 # Project Result
 
