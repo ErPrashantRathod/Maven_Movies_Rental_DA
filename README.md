@@ -59,7 +59,7 @@ Highlight gaps in the inventory and optimize stock levels.
 
 5. "What is the total count of PG-rated movies that have been rented, and what does this indicate about customer preferences?"
 
-<img src="./IMAGES/TOTAL_FILMS.png" alt="TOTAL_FILMS.png" width="400"/> &nbsp;
+<img src="Code_Output/TOTAL_FILMS.png"/> &nbsp;
 
 6. "Can you provide a list of films categorized by their genre, along with their language and film name?"
 
