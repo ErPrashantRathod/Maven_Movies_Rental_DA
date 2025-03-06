@@ -54,7 +54,7 @@ Highlight gaps in the inventory and optimize stock levels.
 
 4. "Which movie rating (e.g., PG, PG-13, R) has the highest number of titles in the inventory, and how can this information help optimize inventory management?"
 
-<img src="./IMAGES/rating_wise_count.png" alt="rating_wise_count.png" width="400"/> &nbsp;
+<img src="https://github.com/ErPrashantRathod/Maven_Movies_Rental_DA/blob/main/Code_Output/rating_wise_count.png" width="400"/> &nbsp;
 
 
 5. "What is the total count of PG-rated movies that have been rented, and what does this indicate about customer preferences?"
