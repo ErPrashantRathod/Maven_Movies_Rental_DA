@@ -67,35 +67,35 @@ Highlight gaps in the inventory and optimize stock levels.
 
 7. "Can you provide a list of movies and the number of times each has been rented out?"
 
-<img src="./IMAGES/popularity.png" alt="popularity.png" width="400"/> &nbsp;
+<img src="https://github.com/ErPrashantRathod/Maven_Movies_Rental_DA/blob/main/Code_Output/popularity.png" alt="popularity.png" width="400"/> &nbsp;
 
 8. "What are the top 10 highest-grossing films, and how much revenue has each generated?"
 
-<img src="./IMAGES/REVENUE.png" alt="REVENUE.png" width="400"/> &nbsp;
+<img src="https://github.com/ErPrashantRathod/Maven_Movies_Rental_DA/blob/main/Code_Output/REVENUE.png" alt="REVENUE.png" width="400"/> &nbsp;
 
 9. "Can we identify the store with the highest historical revenue, and how does it compare to others in the same region?"
 
-<img src="./IMAGES/MOST_REVENUE.png" alt="MOST_REVENUE.png" width="400"/> &nbsp;
+<img src="https://github.com/ErPrashantRathod/Maven_Movies_Rental_DA/blob/main/Code_Output/MOST_REVENUE.png" alt="MOST_REVENUE.png" width="400"/> &nbsp;
 
 10. "How many movie rentals did we have in total each month over the past year?"
 
-<img src="./IMAGES/RENTALS_PER_MONTH.png" alt="RENTALS_PER_MONTH.png" width="400"/> &nbsp;
+<img src="https://github.com/ErPrashantRathod/Maven_Movies_Rental_DA/blob/main/Code_Output/RENTALS_PER_MONTH.png" alt="RENTALS_PER_MONTH.png" width="400"/> &nbsp;
 
 11. "How do we determine the rewards for users who have rented 30 or more times, and what details about their preferences should we consider?"
 
-<img src="./IMAGES/REWARD_VIA_PHONE.png" alt="REWARD_VIA_PHONE.png" width="400"/> &nbsp;
+<img src="https://github.com/ErPrashantRathod/Maven_Movies_Rental_DA/blob/main/Code_Output/REWARD_VIA_PHONE.png" alt="REWARD_VIA_PHONE.png" width="400"/> &nbsp;
 
 12. "Could you pull all payments from our first 100 customers (Based on customers id)"
 
-<img src="./IMAGES/FIRST_100_CUSTOMER_PAYMENTS.png" alt="FIRST_100_CUSTOMER_PAYMENTS.png" width="400"/> &nbsp;
+<img src="https://github.com/ErPrashantRathod/Maven_Movies_Rental_DA/blob/main/Code_Output/FIRST_100_CUSTOMER_PAYMENTS.png" alt="FIRST_100_CUSTOMER_PAYMENTS.png" width="400"/> &nbsp;
 
 13. "Now I’d love to see just payments over $5 for those same customers, since January 1, 2006"
 
-<img src="./IMAGES/JAN_06_2006.png" alt="JAN_06_2006.png" width="400"/> &nbsp;
+<img src="https://github.com/ErPrashantRathod/Maven_Movies_Rental_DA/blob/main/Code_Output/JAN_06_2006.png" alt="JAN_06_2006.png" width="400"/> &nbsp;
 
 14. "Now, could you please write a query to pull all payments from those specific customers, along with payments over $5, from any customer?"
 
-<img src="./IMAGES/PAYMENTS_OVER_$5.png" alt="PAYMENTS_OVER_$5.png" width="400"/> &nbsp;
+<img src="https://github.com/ErPrashantRathod/Maven_Movies_Rental_DA/blob/main/Code_Output/PAYMENTS_OVER_%245.png" alt="PAYMENTS_OVER_$5.png" width="400"/> &nbsp;
 
 15. "We need to understand the special features in our films. Could you pull a list of films which include a Behind the Scenes special feature?"
 
