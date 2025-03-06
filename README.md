@@ -131,7 +131,7 @@ Highlight gaps in the inventory and optimize stock levels.
 
 23. "Can you list the movies that [FIRST_NAME] [LAST_NAME] has been part of, and how many are there in total?"
 
-<img src="https://github.com/ErPrashantRathod/Maven_Movies_Rental_DA/blob/main/Code_Output/NO_OF_FILMS_BY_ACTOR.png" alt="NO_OF_FILMS_BY_ACTOR.png" width="400"/> &nbsp;
+<img src="https://github.com/ErPrashantRathod/Maven_Movies_Rental_DA/blob/main/Code_Output/NO_OF_FILMS_BY_ACTOR.png" width="400"/> &nbsp;
 
 24. “One of our investors is interested in the films we carry and how many actors are listed for each film title. Can you pull a list of all titles, and figure out how many actors are associated with each title?”
 
