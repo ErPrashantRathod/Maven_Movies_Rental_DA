@@ -44,7 +44,7 @@ Highlight gaps in the inventory and optimize stock levels.
 
 2. "What is the total number of movies in the inventory that are available for rent at the lowest rental rate of $0.99?"
 
-<img src="./IMAGES/CHEAPEST_RENTAL.png" alt="CHEAPEST_RENTAL.png" width="200"/> &nbsp;
+<img src="https://github.com/ErPrashantRathod/Maven_Movies_Rental_DA/blob/main/Code_Output/CHEAPEST_RENTAL.png" width="200"/> &nbsp;
 
 
 3. "How can we categorize all movies based on their rental rates and determine the count of movies in each category?"
