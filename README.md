@@ -39,7 +39,7 @@ Highlight gaps in the inventory and optimize stock levels.
 
 1. "How can we extract the first name, last name, and email address of all customers to prepare a comprehensive contact list for the marketing team?"
 
-<img src="./IMAGES/email.png" alt="email.png" width="400"/> &nbsp;
+<img src="https://github.com/ErPrashantRathod/Maven_Movies_Rental_DA/blob/main/Code_Output/email.png"/> &nbsp;
 
 
 2. "What is the total number of movies in the inventory that are available for rent at the lowest rental rate of $0.99?"
